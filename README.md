@@ -1,4 +1,4 @@
-This is a ** Machine Learning project for banknote authentication** that builds classification models to distinguish between genuine and counterfeit banknotes based on extracted image features.
+This is a **Machine Learning project for banknote authentication** that builds classification models to distinguish between genuine and counterfeit banknotes based on extracted image features.
 
 **Key Technologies:**\
 	* Python\
