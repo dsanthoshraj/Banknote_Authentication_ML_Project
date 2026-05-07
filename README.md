@@ -1,4 +1,10 @@
-# Banknote_Authentication_ML_Project
-This Machine Learning project focuses on banknote authentication by training classification models to determine whether a banknote is genuine or fake based on extracted image features.
+This is a ** Machine Learning project for banknote authentication** that builds classification models to distinguish between genuine and counterfeit banknotes based on extracted image features.
 
-# Tech Stack: Python, Pandas, NumPy, Scikit-learn, FastAPI
+**Key Technologies:**
+	Python
+	Pandas (data manipulation)
+	NumPy (numerical computing)
+	Scikit-learn (machine learning)
+	FastAPI (API framework)
+
+The project appears to be a practical implementation of supervised classification, likely using features extracted from banknote images as input to train models that can predict authenticity.
